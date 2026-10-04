@@ -1,3 +1,5 @@
+
+
 # SL Departure Display – ESP32
 
 A small **hobby MVP project** using an ESP32 to fetch departure data from SL and display the next departure on a 1602A LCD.
@@ -77,3 +79,5 @@ LCD 1602A
 - SL Transport API
 
 This is mainly a small hobby MVP for experimenting with ESP32, HTTP requests, JSON parsing and LCD communication.
+
+<img width="1440" height="687" alt="sl_lcd" src="https://github.com/user-attachments/assets/6d623402-3066-4e8a-8a19-d280964e74f9" />
