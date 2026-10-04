@@ -5,7 +5,7 @@
 
 # Directory metadata
 .directory
-
+*README.md
 # Temporary files
 *~
 *.swp

@@ -113,7 +113,7 @@ void parseDepartures(const std::string &jsonString, depature_model &lcd_text)
         }
 
         ESP_LOGI(TAG, "--------------------");
-
+        
         lcd_text.departure = display->valuestring;
         lcd_text.line = designation->valuestring;
         std::stringstream ss_time(expected->valuestring);
